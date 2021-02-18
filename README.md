@@ -77,7 +77,3 @@ Ensure your repository has regular commits (i.e. 20+ commits) and a thorough REA
 * Add extra visualizations! The more comparisons the better, right?
 * Use meaningful glyphicons next to links in the header.
 * Have visualization navigation on every visualizations page with an active state. See the screenshots below.
-
-### Screenshots
-
-This section contains screenshots of each page that must be built, at varying screen widths. These are a guide; you can meet the requirements without having the pages look exactly like the below images.
